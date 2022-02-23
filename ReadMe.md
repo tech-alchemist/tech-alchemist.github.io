@@ -1,1 +1,1 @@
-[ [Tech-Alchemist.Github.Io](https://tech-alchemist.github.io) ]
+[ [git.io/vddbF](https://tech-alchemist.github.io) ]
